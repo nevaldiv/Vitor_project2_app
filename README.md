@@ -1,7 +1,6 @@
-Project 2
+Project 2 - ViTOR?
 
-ViTOR
-Viability of a Torrent site on Rails
+**Vi**ability of a **T**orrentsite **O**n **R**ails
 
 
 For Project 2 Im going to be pursuing a project of personal interest, mostly for exploratory purposes, the viability of the work needed to implement a torrent or other database-heavy website such as a bittorrent filesharing website.
